@@ -19,6 +19,7 @@
 	<body>
 		<h1 class="text-center">Hello PHP</h1>
 		<?php echo 'test002'; ?>
+		<?php echo 'สวัสดีขอรับ'; ?>
 
 		<!-- jQuery -->
 		<script src="//code.jquery.com/jquery.js"></script>
